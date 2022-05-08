@@ -1,0 +1,9 @@
+.newsCategories{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+    color: blanchedalmond;
+    background-color: gainsboro ;
+    margin: 0%;
+    padding: 5px;
+}
