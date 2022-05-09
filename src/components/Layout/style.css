@@ -1,8 +1,7 @@
 .newsCategories{
     display: flex;
-    gap: 10px;
+    gap: 15px;
     list-style-type: none;
-    color: blanchedalmond;
     background-color: gainsboro ;
     margin: 0%;
     padding: 5px;

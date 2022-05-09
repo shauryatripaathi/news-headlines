@@ -10,9 +10,13 @@ export default function MainPage(){
         color : palevioletred;
         font-size : 2.5em;
     `
+    const date = new Date().toDateString()
     return(
         <div>
+            <div>
             <Header>News Headlines</Header>
+            {date}
+            </div>
             <Navbar />
         </div>
     )
