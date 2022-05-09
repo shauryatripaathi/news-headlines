@@ -4,7 +4,7 @@ export default function Science (){
     return(
         <div>
             Science
-            <FetchNews country = 'in' category = '&category=science' />
+            <FetchNews content = 'tech'/>
         </div>
     )
 }

@@ -1,10 +1,10 @@
 import FetchNews from "../../fetchNews";
 
-export default function Sports (){
-    return(
+export default function Sports() {
+    return (
         <div>
             Sports
-            <FetchNews country = '' category = '&category=sports' />
+            <FetchNews content={'sport'} />
         </div>
     )
 }

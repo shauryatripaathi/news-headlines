@@ -4,7 +4,7 @@ export default function Health (){
     return(
         <div>
             Health
-            <FetchNews country = 'in' category = '&category=health' />
+            <FetchNews content = 'health'/>
         </div>
     )
 }

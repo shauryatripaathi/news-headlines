@@ -4,7 +4,7 @@ export default function Business (){
     return(
         <div>
             Business
-            <FetchNews country = 'in' category = '&category=business' />
+            <FetchNews content = 'money'/>
         </div>
     )
 }
