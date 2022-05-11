@@ -1,1 +1,1 @@
-[News](http://shauryatripaathi.github.io/news-headlines/)
+[News](https://shauryatripaathi.github.io/news-headlines/)
