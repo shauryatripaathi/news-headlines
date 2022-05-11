@@ -1,9 +1,9 @@
 import FetchNews from "../../fetchNews";
 
-export default function World(){
-    return(
+export default function World() {
+    return (
         <div>World news
-            <FetchNews content = 'wsj'/>
+            <FetchNews content='wsj' />
         </div>
     )
 }

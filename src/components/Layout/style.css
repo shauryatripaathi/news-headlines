@@ -1,12 +1,25 @@
-.newsCategories{
+.newsCategories {
     display: flex;
     gap: 15px;
     list-style-type: none;
-    background-color: gainsboro ;
+    background-color: gainsboro;
     margin: 0%;
     padding: 5px;
 }
-.linkStyling{
+
+.linkStyling {
     text-decoration: none;
     color: black;
+}
+
+@media (max-width : 62em) {
+    .newsCategories {
+        font-size: 1.2vh;
+        width: 100vmax;
+        background-color: white;
+    }
+
+    .linkStyling {
+        font-size: 1vh;
+    }
 }

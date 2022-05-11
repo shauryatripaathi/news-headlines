@@ -1,8 +1,9 @@
-.card{
+.card {
     border: 1px solid black;
     width: 18rem;
 }
-.pageStyling{
+
+.pageStyling {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;

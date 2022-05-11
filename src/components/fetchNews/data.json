@@ -1,8 +1,8 @@
 [
     {
         "source": {
-        "id": "",
-        "name": "Moneycontrol"
+            "id": null,
+            "name": "Moneycontrol"
         },
         "author": "Moneycontrol News",
         "title": "LIC IPO Live Updates: Total subscription at 2x on final day; policyholder portion booked 5.37 times,... - Moneycontrol",
@@ -11,11 +11,11 @@
         "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/05/LIC-IPO-2-770x431-770x431.jpg",
         "publishedAt": "2022-05-09T06:27:19Z",
         "content": "May 09, 2022 / 11:01 AM IST\r\nLIC IPO receives record applications from retail investor\r\nThe initial public offering (IPO) of Life Insurance Corporation (LIC) continued to receive strong interest from… [+705 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Abplive.com"
+            "id": null,
+            "name": "Abplive.com"
         },
         "author": "Radifah Kabir",
         "title": "Genetic Reasons May Be Responsible For Covid-19 Deaths In Elderly: Study - ABP Live",
@@ -24,11 +24,11 @@
         "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/05/09/9b47bc682cbe2eb3e4df504a9a0c0f8e_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
         "publishedAt": "2022-05-09T06:22:11Z",
         "content": "New Delhi: The ability of the immune system to combat Covid-19, like any infection, largely depends on the system's ability to replicate the immune cells effective at destroying SARS-CoV-2. However, … [+5416 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Thehansindia.com"
+            "id": null,
+            "name": "Thehansindia.com"
         },
         "author": "Kahekashan",
         "title": "iPhone 13 Price Drops by Rs. 10000 on Amazon and Flipkart; Get cashback and discounts - The Hans India",
@@ -37,24 +37,24 @@
         "urlToImage": "https://assets.thehansindia.com/h-upload/2022/05/09/1291108-iphone-13.jpg",
         "publishedAt": "2022-05-09T06:15:12Z",
         "content": "Apple iPhone 13 price drop on Amazon and Flipkart has been announced. Buyers can now save up to Rs. 10000 and more. Both e-commerce giants offer attractive instant discounts, refunds, and exchange of… [+1775 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "NDTV News"
+            "id": null,
+            "name": "NDTV News"
         },
-        "author": "",
+        "author": null,
         "title": "Demolition Drive Today At Shaheen Bagh, Centre Of Citizenship Law Protest - NDTV",
         "description": "Demolition drive at Delhi's Shaheen Bagh, centre of citizenship law protests, today",
         "url": "https://www.ndtv.com/india-news/demolition-drive-at-delhis-shaheen-bagh-centre-of-citizenship-law-protests-today-2958346",
         "urlToImage": "https://c.ndtvimg.com/2022-05/uln28avg_shaheen-bagh-demolition_650x400_09_May_22.jpg",
         "publishedAt": "2022-05-09T06:03:07Z",
         "content": "New Delhi: Bulldozers have rolled into Shaheen Bagh, centre of the massive protest against the contentious citizenship law, for an anti-encroachment drive by south Delhi's BJP-controlled civic body.\r… [+2392 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Hindustan Times"
+            "id": null,
+            "name": "Hindustan Times"
         },
         "author": "Shaurya Tomer",
         "title": "Total Lunar Eclipse 2022: Best ways to watching the Blood Moon Eclipse - HT Tech",
@@ -63,11 +63,11 @@
         "urlToImage": "https://images.hindustantimes.com/tech/img/2022/05/09/1600x900/Lunar_eclipse_Pixabay_1636356060083_1652075556696.jpg",
         "publishedAt": "2022-05-09T05:58:31Z",
         "content": "Top SectionsExplore Tech\r\n Copyright © HT Media Limited All rights reserved."
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "The Indian Express"
+            "id": null,
+            "name": "The Indian Express"
         },
         "author": "Tech Desk",
         "title": "Massive black hole might have spontaneously ‘flipped’ its magnetic field - The Indian Express",
@@ -76,11 +76,11 @@
         "urlToImage": "https://images.indianexpress.com/2022/05/Black-hole-flipped-magnetic-field-NASA.jpg",
         "publishedAt": "2022-05-09T05:45:01Z",
         "content": "A rare outburst from a galaxy over 236 million light-years away could have been caused by a spontaneous flip of the magnetic field surrounding its central black hole, according to a study by an inter… [+3367 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Bollywood Life"
+            "id": null,
+            "name": "Bollywood Life"
         },
         "author": "Shivani Pawaskar",
         "title": "Katrina Kaif takes Vicky Kaushal to her favourite spot Bubby's in NYC; duo's pictures are pure couple goals - Bollywood Life",
@@ -89,24 +89,24 @@
         "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2022/05/Katrina-Kaif-Vicky-Kaushal-teaser-600x315.png",
         "publishedAt": "2022-05-09T05:19:20Z",
         "content": "Katrina Kaif and Vicky Kaushal are in NYC enjoying some quality time together. The two lovebirds got married in last year in Ranthambore and it was the biggest Bollywood producers that year. And soon… [+333 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "google-news",
-        "name": "Google News"
+            "id": "google-news",
+            "name": "Google News"
         },
-        "author": "",
+        "author": null,
         "title": "Vaccine to curb Covid spread should now be top priority: UK scientist - Kalinga TV",
-        "description": "",
+        "description": null,
         "url": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8va2FsaW5nYXR2LmNvbS9jb3ZpZC0xOS92YWNjaW5lLXRvLWN1cmItY292aWQtc3ByZWFkLXNob3VsZC1ub3ctYmUtdG9wLXByaW9yaXR5LXVrLXNjaWVudGlzdC_SAQA?oc=5",
-        "urlToImage": "",
+        "urlToImage": null,
         "publishedAt": "2022-05-09T05:04:06Z",
-        "content": ""
-        },
-        {
+        "content": null
+    },
+    {
         "source": {
-        "id": "",
-        "name": "DNA India"
+            "id": null,
+            "name": "DNA India"
         },
         "author": "DNA Web Teams",
         "title": "Garena Free Fire Max May 9 Redeem Codes: Use your free codes today - DNA India",
@@ -115,24 +115,24 @@
         "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/05/09/1771170-1632360-garena-free-fire-max-twitter.jpg",
         "publishedAt": "2022-05-09T04:36:42Z",
         "content": "Reported By:| Edited By: DNA Web Teams |Source: DNA Web Desk |Updated: May 09, 2022, 09:53 AM ISTIn terms of popularity, Garena Free Fire is one of the best mobile battle royale games. Administrators… [+1240 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "India Today"
+            "id": null,
+            "name": "India Today"
         },
-        "author": "",
+        "author": null,
         "title": "Rupee hits all-time low, Sensex crashes 700 points - India Today",
         "description": "Sensex fell 1.34 per cent or 736.07 to 54,099.51. The rupee tumbled to an all-time low against the dollar on Monday.",
         "url": "https://www.indiatoday.in/business/story/share-market-sensex-today-nifty-50-rupee-to-dollar-1947050-2022-05-09",
         "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202205/Sensex_reuters_4-647x363.jpeg?2.HsYoyju9FdrIyFBxZUrajYjxjr8mS2",
         "publishedAt": "2022-05-09T04:30:19Z",
-        "content": ""
-        },
-        {
+        "content": null
+    },
+    {
         "source": {
-        "id": "",
-        "name": "The Indian Express"
+            "id": null,
+            "name": "The Indian Express"
         },
         "author": "Tech Desk",
         "title": "Apple AirPods Pro 2 and new colours for AirPods Max coming later this fall, says report - The Indian Express",
@@ -141,11 +141,11 @@
         "urlToImage": "https://images.indianexpress.com/2022/05/Apple-airpods-pro-2-airpods-colours-featured.jpg",
         "publishedAt": "2022-05-09T04:23:13Z",
         "content": "Apple may bring a pair of premium AirPods Pro 2 sometime later this year. That’s according to Bloomberg’s Mark Gurman, in his latest PowerOn newsletter. Gurman corroborates rumours that the second-ge… [+1489 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+            "id": "the-times-of-india",
+            "name": "The Times of India"
         },
         "author": "TIMESOFINDIA.COM",
         "title": "Wordle 324 answer for May 9, 2022 - Times of India",
@@ -153,25 +153,25 @@
         "url": "https://timesofindia.indiatimes.com/gadgets-news/wordle-324-answer-for-may-9-2022/articleshow/91430134.cms",
         "urlToImage": "https://static.toiimg.com/thumb/msid-91430105,width-1070,height-580,imgsize-32860,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
         "publishedAt": "2022-05-09T04:12:00Z",
-        "content": ""
-        },
-        {
+        "content": null
+    },
+    {
         "source": {
-        "id": "",
-        "name": "NDTV News"
+            "id": null,
+            "name": "NDTV News"
         },
-        "author": "",
+        "author": null,
         "title": "Rupee Weakens To All-Time Low, Trading Beyond 77.40 Per Dollar - NDTV Profit",
         "description": "The rupee hit all-time lows early on Monday, trading beyond 77.40 per dollar driven by investors' preference toward safety as lockdowns in China, war on the edge of Europe and fear about higher interest rates sent a nervous jolt through markets.",
         "url": "https://www.ndtv.com/business/rupee-hits-all-time-low-trading-beyond-77-20-per-dollar-as-investors-sentiment-remains-gloomy-2958086",
         "urlToImage": "https://c.ndtvimg.com/2022-02/3bbr68m8_new-rupee-notes-650_625x300_15_February_22.jpg",
         "publishedAt": "2022-05-09T04:04:40Z",
         "content": "Rupee weakens to all-time low, beyond 77.40 per dollar on gloomy investor sentiment\r\nThe rupee weakened to hit a fresh all-time low early on Monday, trading beyond 77.40 per dollar, driven by investo… [+3493 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Goodreturns.in"
+            "id": null,
+            "name": "Goodreturns.in"
         },
         "author": "Vipul Das",
         "title": "Buy This Tata Group Stock For 175% Dividend & Good Upside Potential - Goodreturns",
@@ -180,11 +180,11 @@
         "urlToImage": "https://www.goodreturns.in/img/2021/11/best-stocks-to-buy-now-0820-1635912877.jpg",
         "publishedAt": "2022-05-09T04:04:06Z",
         "content": "The brokerage firm Sharekhan in its latest report has said \"Tata Power Company Limited's (TPCL's) Q4FY22 adjusted PAT of Rs. 653 crore (up 66.3% y-o-y) was 4% above our estimate of Rs. 632 crore prim… [+2598 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Koimoi"
+            "id": null,
+            "name": "Koimoi"
         },
         "author": "Koimoi.com Team",
         "title": "KGF Chapter 2 Box Office (Worldwide): Surpasses RRR To Become The 3rd Highest Grossing Indian Film Ever! - Koimoi",
@@ -193,11 +193,11 @@
         "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/05/kgf-chapter-2-shows-a-big-jump-on-day-18-01.jpg",
         "publishedAt": "2022-05-09T03:56:57Z",
         "content": "KGF Chapter 2 Beats RRR With Its Worldwide Collection(Pic Credit: Poster)\r\nKGF Chapter 2 has definitely slowed down a bit, but its consistent run on weekdays and terrific jumps during weekends are ma… [+1586 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Hindustan Times"
+            "id": null,
+            "name": "Hindustan Times"
         },
         "author": "HT Sports Desk",
         "title": "Watch: Virat Kohli's gesture for Dinesh Karthik after his blistering 8-ball 30* against SRH breaks the internet - Hindustan Times",
@@ -206,11 +206,11 @@
         "urlToImage": "https://images.hindustantimes.com/img/2022/05/09/1600x900/FSPKmj1UcAAZQ2j_1652067042910_1652067047438.jpg",
         "publishedAt": "2022-05-09T03:46:36Z",
         "content": "Veteran Indian wicketkeeper-batter Dinesh Karthik has been in the form of his life and the Wankhede crowd in Mumbai witnessed another glimpse of it on Sunday during the 2022 IPL match between Royal C… [+1726 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Hindustan Times"
+            "id": null,
+            "name": "Hindustan Times"
         },
         "author": "HT Entertainment Desk",
         "title": "Parineeti Chopra says Priyanka was ‘a soldier in hospital' after Malti’s birth - Hindustan Times",
@@ -219,11 +219,11 @@
         "urlToImage": "https://images.hindustantimes.com/img/2022/05/09/1600x900/malti-marie_1652065874232_1652065886307.jpg",
         "publishedAt": "2022-05-09T03:39:44Z",
         "content": "As soon as Priyanka Chopra announced the homecoming of her baby girl after 100 days in NICU, her cousin Parineeti Chopra and several friends and colleagues including Ranveer Singh, Sonam Kapoor, Prei… [+2109 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "NDTV News"
+            "id": null,
+            "name": "NDTV News"
         },
         "author": "Press Trust of India",
         "title": "IPL 2022: Not \"End Of The World\" If CSK Don't Make Playoffs, Says MS Dhoni - NDTV Sports",
@@ -232,11 +232,11 @@
         "urlToImage": "https://c.ndtvimg.com/2022-05/n12ujrk_ms-dhoni-bcciipl_625x300_04_May_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
         "publishedAt": "2022-05-09T02:46:20Z",
         "content": "Chennai Super Kings might have had a \"perfect game\" against Delhi Capitals but skipper Mahendra Singh Dhoni doesn't want to lose his sleep over play-off qualifications as he feels that even if they f… [+2316 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "",
-        "name": "Deccan Herald"
+            "id": null,
+            "name": "Deccan Herald"
         },
         "author": "Raju Gavali",
         "title": "It's Azaan vs Hanuman Chalisa, now in Karnataka - Deccan Herald",
@@ -245,10 +245,10 @@
         "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/05/09/whatsapp-image-2022-05-09-at-71652-am-1107628-1652072544.jpg",
         "publishedAt": "2022-05-09T02:12:10Z",
         "content": "The Azaan-Hanuman Chalisa row reached Karnataka on Monday as activists of Sri Ram Sene in Belagavi began chanting Hanuman Chalisa at 5 am countering the azaan from Sonya Maruti Temple.\r\nSene activist… [+1666 chars]"
-        },
+    },
     {
         "source": {
-            "id": "",
+            "id": null,
             "name": "Protothema.gr"
         },
         "author": "Thema Newsroom",
@@ -261,7 +261,7 @@
     },
     {
         "source": {
-            "id": "",
+            "id": null,
             "name": "The Guardian"
         },
         "author": "Graeme Wearden",
@@ -274,7 +274,7 @@
     },
     {
         "source": {
-            "id": "",
+            "id": null,
             "name": "Republic World"
         },
         "author": "Vishnu V V",
@@ -287,7 +287,7 @@
     },
     {
         "source": {
-            "id": "",
+            "id": null,
             "name": "Digitimes"
         },
         "author": "Ines Lin",
@@ -299,8 +299,8 @@
         "content": "US Securities and Exchange Commission (SEC) last week listed more than 80 Chinese firms in a provisional list of entities that might be delisted if they fail to cooperate with audit regulations. Seve… [+2986 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "This is Money"
         },
         "author": "Emilia Shovelin",
@@ -312,8 +312,8 @@
         "content": "I have recently installed some new solar panels to help reduce the overall cost of my energy bills in the long term.\r\nI'm planning on selling my excess energy back to the grid, but I'm not sure how t… [+6016 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "UNILAD"
         },
         "author": "Cameron Frew",
@@ -325,8 +325,8 @@
         "content": "Elon Musk claims he's been threatened by the head of Russia's space agency amid the invasion of Ukraine. \r\nRussian president Vladimir Putin's 'special military' operation has stretched into its 75th … [+2511 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "TweakTown"
         },
         "author": "Jak Connor",
@@ -338,7 +338,7 @@
         "content": "Elon Musk has copped some criticism online over a short private jet trip that took him just 31 miles, or nine minutes of flight time.\r\nThe outrage was sparked when the ElonJet Twitter bot account, wh… [+2032 chars]"
     },
     {
-    "source": {
+        "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
@@ -351,11 +351,11 @@
         "content": "Elon Musk has never been accused of dreaming small. He has reinvented at least two industries with Tesla, his electronic vehicle company, and SpaceX, a rocket company - and now his ambitions are carr… [+3526 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "Fark.com"
         },
-        "author": "",
+        "author": null,
         "title": "Those Ukrainian tractors stolen by Russia should be a wake-up call to American consumers [Interesting]",
         "description": "Those Ukrainian tractors stolen by Russia should be a wake-up call to American consumers",
         "url": "https://www.fark.com/comments/12329016/Those-Ukrainian-tractors-stolen-by-Russia-should-be-a-wake-up-call-to-American-consumers",
@@ -364,8 +364,8 @@
         "content": "wearsmanyhats:ox45tallboy: I wonder if Tesla owners are aware of just how much Elon Musk knows about where they go, who they call, what music they like, and who rides with them.\r\nLOL I bet they could… [+408 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "TweakTown"
         },
         "author": "Jak Connor",
@@ -377,8 +377,8 @@
         "content": "Elon Musk has picked up quite a bit of heat lately following his purchase of Twitter and leaked text messages between him and Microsoft founder Bill Gates.\r\nDespite the controversy and contentious ar… [+1268 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "The Japan Times"
         },
         "author": "Peter Eavis",
@@ -390,8 +390,8 @@
         "content": "Elon Musks deal for Twitter has features that make it risky, including billions of dollars of personal debt. If it goes wrong, it could burn Tesla shareholders and strain Twitters financial health.\r\n… [+7299 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "Gadgets360.com"
         },
         "author": "Agencies",
@@ -403,8 +403,8 @@
         "content": "Tesla CEO and SpaceX founder Elon Musk said he would significantly increase work ethic standards in Twitter once he officially acquires the social media platform.\r\nLast week, Twitter said it agreed t… [+2258 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "Moneycontrol"
         },
         "author": "Reuters",
@@ -416,8 +416,8 @@
         "content": "An Elon Musk tweet saying Japan would \"eventually cease to exist\" without a higher birthrate set off a flood of sarcasm and anger on Monday - though much of the angst was aimed at a Japanese governme… [+1924 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "TweakTown"
         },
         "author": "Jak Connor",
@@ -429,8 +429,8 @@
         "content": "Since Elon Musk purchased Twitter for $44 billion the SpaceX and Tesla CEO has been hinting at some of the changes that will be coming to the world's second largest social media platform.\r\nWith many … [+1972 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "The Star Online"
         },
         "author": "Elaine Lies",
@@ -442,8 +442,8 @@
         "content": "TOKYO (Reuters) - An Elon Musk tweet saying Japan would \"eventually cease to exist\" without a higher birthrate set off a flood of sarcasm and anger on Monday - though much of the angst was aimed at a… [+1901 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "FX Empire"
         },
         "author": "Reuters",
@@ -455,11 +455,11 @@
         "content": "Musk, the head of electric vehicle maker Tesla Inc, at the weekend tweeted, At risk of stating the obvious, unless something changes to cause the birth rate to exceed the death rate, Japan will event… [+1613 chars]"
     },
     {
-    "source": {
+        "source": {
             "id": "reuters",
             "name": "Reuters"
         },
-        "author": "",
+        "author": null,
         "title": "Musk tweet on Japan doomed by low birthrate provokes anger - but not just at him - Reuters",
         "description": "An Elon Musk tweet saying Japan would \"eventually cease to exist\" without a higher birthrate set off a flood of sarcasm and anger on Monday - though much of the angst was aimed at a Japanese government many said did little to address the issue.",
         "url": "https://www.reuters.com/world/asia-pacific/musk-tweet-japan-doomed-by-low-birthrate-provokes-anger-not-just-him-2022-05-09/",
@@ -468,8 +468,8 @@
         "content": "TOKYO, May 9 (Reuters) - An Elon Musk tweet saying Japan would \"eventually cease to exist\" without a higher birthrate set off a flood of sarcasm and anger on Monday - though much of the angst was aim… [+2076 chars]"
     },
     {
-    "source": {
-            "id": "",
+        "source": {
+            "id": null,
             "name": "CleanTechnica"
         },
         "author": "Jesper Berggreen",
@@ -481,7 +481,7 @@
         "content": "Back in November 2019, I wrote about my choice to replace the Michelin Pilot Sport 4 originally fittet on my Tesla Model 3 with all-season Michelin CrossClimate+ tyres (I recommend reading that artic… [+6200 chars]"
     },
     {
-    "source": {
+        "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
@@ -494,7 +494,7 @@
         "content": "An Elon Musk tweet saying Japan would \"eventually cease to exist\" without a higher birthrate set off a flood of sarcasm and anger on Monday - though much of the angst was aimed at a Japanese governme… [+2000 chars]"
     },
     {
-    "source": {
+        "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
@@ -508,8 +508,8 @@
     },
     {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Tage Kene-Okafor",
         "title": "Egyptian fintech Paymob raises $50M led by PayPal Ventures and Kora Capital",
@@ -518,11 +518,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/PhotoPictureResizer_220509_013038383_crop_1280x913.jpg?w=561",
         "publishedAt": "2022-05-09T07:04:11Z",
         "content": "Egyptian fintech Paymob, which enables merchants to accept digital payments online and in-store, announced today it has raised $50 million in Series B funding.\r\nPayPal Ventures, the global corporate … [+5460 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Catherine Shu",
         "title": "Atma wants to make job hunting in Indonesia easier",
@@ -531,11 +531,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/Atma-Community.jpg?w=600",
         "publishedAt": "2022-05-09T04:25:41Z",
         "content": "Atma, an Indonesian startup that wants to make job hunting less painful, announced today it has raised $5 million in pre-seed funding led by AC Ventures, with participation from Global Founders Capit… [+2140 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Kate Park",
         "title": "South Korea's OHouse lands $128M to add AR to home improvement app",
@@ -544,11 +544,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/ConnectHomes_CoolidgeAv_06.jpg?w=533",
         "publishedAt": "2022-05-09T00:11:37Z",
         "content": "During the worst days of the pandemic, when people were stuck at home and starving for some form of entertainment beyond streaming yet another TV series, many turned to DIY home improvement projects.… [+3422 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Kyle Wiggers, Devin Coldewey",
         "title": "Perceptron: AI bias can arise from annotation instructions",
@@ -557,11 +557,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/01/datacrossroads.jpg?w=712",
         "publishedAt": "2022-05-08T18:15:12Z",
         "content": "Research in the field of machine learning and AI, now a key technology in practically every industry and company, is far too voluminous for anyone to read it all. This column, Perceptron (previously … [+7758 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Ron Miller",
         "title": "How will tech companies cope with an office-free future?",
@@ -570,11 +570,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-102871188.jpg?w=568",
         "publishedAt": "2022-05-08T16:00:53Z",
         "content": "What’s to become of the tech company office, and how do companies function without the structure that working together in the same building has traditionally provided us? That’s a monumental question… [+1532 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Mary Ann Azevedo",
         "title": "The Interchange: Stripe takes a swing at Plaid",
@@ -583,11 +583,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-57422133-e1651876773125.jpg?w=600",
         "publishedAt": "2022-05-08T14:16:02Z",
         "content": "Hi all, it was a roller coaster of a week in the world of fintech as I published two separate articles on startup layoffs and a nine-figure funding round in the span of a few hours. It was also a wee… [+10401 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Alex Wilhelm, Ron Miller",
         "title": "The stock market is down, but these 4 tech companies prove there's still good news out there",
@@ -596,11 +596,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-932025648.jpg?w=600",
         "publishedAt": "2022-05-08T13:00:27Z",
         "content": "Its been a rough week. After the Supreme Court leak, way too much layoff news, the stock prices of the largest tech companies in retreat, and a general feeling that the economy is going in the wrong … [+2114 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Matt Burns",
         "title": "Fundraise on confidence, Front CEO Mathilde Collin says",
@@ -609,11 +609,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-04-27-featured-1920x1080-1-2.jpg?w=711",
         "publishedAt": "2022-05-07T21:15:42Z",
         "content": "Startups need capital and often fundraise from investors. This requires pitching, numbers, stats and a story. And the time has to be correct. The key to timing is easy, according to this CEO: Fundrai… [+3135 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Greg Kumparak",
         "title": "A brutal week of layoffs",
@@ -622,11 +622,11 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1222778351.jpg?w=580",
         "publishedAt": "2022-05-07T20:08:00Z",
         "content": "Hi friends.\r\nIn case you missed it last week: I’m Greg, and I’m handling Week in Review now that Lucas is off with Anita building their new crypto-focused podcast/newsletter, Chain Reaction.\r\nI’m tee… [+4443 chars]"
-        },
-        {
+    },
+    {
         "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
         "author": "Jaclyn Trop",
         "title": "All the tech that got our attention at F1 Miami Grand Prix",
@@ -635,265 +635,265 @@
         "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/Mercedes-AMG-Petronas.jpeg?w=764",
         "publishedAt": "2022-05-07T18:44:38Z",
         "content": "All eyes are on Miami this weekend as the international glitterati arrives for the citys inaugural Formula One Grand Prix. The European racing event has attracted American fans in droves, thanks to t… [+4594 chars]"
-        },
-        {
+    },
+    {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "William Power",
-            "title": "Stock Funds Felt the Tech Pain in April - The Wall Street Journal",
-            "description": "The average U.S.-stock fund fell 8.6% and is down 14.1% so far this year",
-            "url": "https://www.wsj.com/articles/stock-funds-felt-tech-pain-april-11651859816",
-            "urlToImage": "https://images.wsj.net/im-537747/social",
-            "publishedAt": "2022-05-08T16:00:00Z",
-            "content": "Unplugged.Tech stocks absorbed a long-awaited decline in April, damaging mutual funds and exchange-traded funds that had enjoyed their run-up. Some investors hope its just a needed pause after a stro… [+2265 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "William Power",
+        "title": "Stock Funds Felt the Tech Pain in April - The Wall Street Journal",
+        "description": "The average U.S.-stock fund fell 8.6% and is down 14.1% so far this year",
+        "url": "https://www.wsj.com/articles/stock-funds-felt-tech-pain-april-11651859816",
+        "urlToImage": "https://images.wsj.net/im-537747/social",
+        "publishedAt": "2022-05-08T16:00:00Z",
+        "content": "Unplugged.Tech stocks absorbed a long-awaited decline in April, damaging mutual funds and exchange-traded funds that had enjoyed their run-up. Some investors hope its just a needed pause after a stro… [+2265 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Yaroslav Trofimov",
-            "title": "Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says - The Wall Street Journal",
-            "description": "A Russian airstrike is believed to have killed some 60 villagers who had taken refuge in a school in Ukraine’s Luhansk region, authorities there said.",
-            "url": "https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227",
-            "urlToImage": "https://images.wsj.net/im-540093/social",
-            "publishedAt": "2022-05-08T14:11:00Z",
-            "content": "KHARKIV, UkraineA Russian airstrike is believed to have killed some 60 villagers who had taken refuge in a school in Ukraines Luhansk region, authorities there said, while embattled Ukrainian forces … [+409 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Yaroslav Trofimov",
+        "title": "Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says - The Wall Street Journal",
+        "description": "A Russian airstrike is believed to have killed some 60 villagers who had taken refuge in a school in Ukraine’s Luhansk region, authorities there said.",
+        "url": "https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227",
+        "urlToImage": "https://images.wsj.net/im-540093/social",
+        "publishedAt": "2022-05-08T14:11:00Z",
+        "content": "KHARKIV, UkraineA Russian airstrike is believed to have killed some 60 villagers who had taken refuge in a school in Ukraines Luhansk region, authorities there said, while embattled Ukrainian forces … [+409 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Katherine Blunt",
-            "title": "Electricity Shortage Warnings Grow Across Country...",
-            "description": "Electric-grid operators are warning that power-generating capacity is struggling to keep up with demand, a gap that could lead to rolling blackouts during heat waves or other peak periods as soon as this year.",
-            "url": "https://www.wsj.com/articles/electricity-shortage-warnings-grow-across-u-s-11652002380",
-            "urlToImage": "https://images.wsj.net/im-536653/social",
-            "publishedAt": "2022-05-08T14:01:38Z",
-            "content": "From California to Texas to Indiana, electric-grid operators are warning that power-generating capacity is struggling to keep up with demand, a gap that could lead to rolling blackouts during heat wa… [+696 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Katherine Blunt",
+        "title": "Electricity Shortage Warnings Grow Across Country...",
+        "description": "Electric-grid operators are warning that power-generating capacity is struggling to keep up with demand, a gap that could lead to rolling blackouts during heat waves or other peak periods as soon as this year.",
+        "url": "https://www.wsj.com/articles/electricity-shortage-warnings-grow-across-u-s-11652002380",
+        "urlToImage": "https://images.wsj.net/im-536653/social",
+        "publishedAt": "2022-05-08T14:01:38Z",
+        "content": "From California to Texas to Indiana, electric-grid operators are warning that power-generating capacity is struggling to keep up with demand, a gap that could lead to rolling blackouts during heat wa… [+696 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Khadeeja Safdar and Gregory Zuckerman",
-            "title": "As Demand for Mental-Health Care Booms, Investors See Opportunities",
-            "description": "Venture capitalists and private-equity firms are pouring billions of dollars into psychotherapy providers, telehealth platforms and mental-wellness apps.",
-            "url": "https://www.wsj.com/articles/as-demand-for-mental-health-care-booms-investors-see-opportunities-11652018401",
-            "urlToImage": "https://images.wsj.net/im-536159/social",
-            "publishedAt": "2022-05-08T14:00:00Z",
-            "content": "Psychiatrists and psychologists once ran their own practices. Now the local therapist office could be controlled by a buyout king.\r\nVenture capitalists and private-equity firms are pouring billions o… [+320 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Khadeeja Safdar and Gregory Zuckerman",
+        "title": "As Demand for Mental-Health Care Booms, Investors See Opportunities",
+        "description": "Venture capitalists and private-equity firms are pouring billions of dollars into psychotherapy providers, telehealth platforms and mental-wellness apps.",
+        "url": "https://www.wsj.com/articles/as-demand-for-mental-health-care-booms-investors-see-opportunities-11652018401",
+        "urlToImage": "https://images.wsj.net/im-536159/social",
+        "publishedAt": "2022-05-08T14:00:00Z",
+        "content": "Psychiatrists and psychologists once ran their own practices. Now the local therapist office could be controlled by a buyout king.\r\nVenture capitalists and private-equity firms are pouring billions o… [+320 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Randall Smith",
-            "title": "Is Your Wealth Adviser Independent? Sometimes, It Isn’t Easy to Tell",
-            "description": "Investors might not be aware when their advisers have ties to insurance companies",
-            "url": "https://www.wsj.com/articles/independent-wealth-advisor-ties-11651860089",
-            "urlToImage": "https://images.wsj.net/im-539810/social",
-            "publishedAt": "2022-05-08T13:00:00Z",
-            "content": "Since the 2008 financial crisis tarnished big Wall Street banks and brokers, the ranks of independent wealth advisers have grown faster than other categories. Enhancing their appeal has been a standa… [+8537 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Randall Smith",
+        "title": "Is Your Wealth Adviser Independent? Sometimes, It Isn’t Easy to Tell",
+        "description": "Investors might not be aware when their advisers have ties to insurance companies",
+        "url": "https://www.wsj.com/articles/independent-wealth-advisor-ties-11651860089",
+        "urlToImage": "https://images.wsj.net/im-539810/social",
+        "publishedAt": "2022-05-08T13:00:00Z",
+        "content": "Since the 2008 financial crisis tarnished big Wall Street banks and brokers, the ranks of independent wealth advisers have grown faster than other categories. Enhancing their appeal has been a standa… [+8537 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Jenna Telesca",
-            "title": "Crypto Prices Slump Over Weekend",
-            "description": "Bitcoin’s price is almost half its November high",
-            "url": "https://www.wsj.com/articles/crypto-prices-slump-over-weekend-11652011356",
-            "urlToImage": "https://images.wsj.net/im-538675/social",
-            "publishedAt": "2022-05-08T12:02:00Z",
-            "content": "The cryptocurrency market fell over the weekend, mirroring the slide of the broader stock market.\r\nThe worlds largest cryptocurrency, bitcoin, fell to $34,702.69 on Sunday morning, a 3.8% change from… [+1186 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Jenna Telesca",
+        "title": "Crypto Prices Slump Over Weekend",
+        "description": "Bitcoin’s price is almost half its November high",
+        "url": "https://www.wsj.com/articles/crypto-prices-slump-over-weekend-11652011356",
+        "urlToImage": "https://images.wsj.net/im-538675/social",
+        "publishedAt": "2022-05-08T12:02:00Z",
+        "content": "The cryptocurrency market fell over the weekend, mirroring the slide of the broader stock market.\r\nThe worlds largest cryptocurrency, bitcoin, fell to $34,702.69 on Sunday morning, a 3.8% change from… [+1186 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Julia-Ambra Verlaine",
-            "title": "Dollar Strength Bucks Inflation Woes",
-            "description": "Other major currencies fall as dollar climbs amid economic weakness world-wide",
-            "url": "https://www.wsj.com/articles/dollar-strength-bucks-inflation-woes-11651878863",
-            "urlToImage": "https://images.wsj.net/im-537516/social",
-            "publishedAt": "2022-05-08T12:00:00Z",
-            "content": "Years ago, high U.S. inflation meant a weak dollar. So far, it is different this time, and many on Wall Street are betting it will stay that way.The dollar is reaching multidecade highs against its t… [+5511 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Julia-Ambra Verlaine",
+        "title": "Dollar Strength Bucks Inflation Woes",
+        "description": "Other major currencies fall as dollar climbs amid economic weakness world-wide",
+        "url": "https://www.wsj.com/articles/dollar-strength-bucks-inflation-woes-11651878863",
+        "urlToImage": "https://images.wsj.net/im-537516/social",
+        "publishedAt": "2022-05-08T12:00:00Z",
+        "content": "Years ago, high U.S. inflation meant a weak dollar. So far, it is different this time, and many on Wall Street are betting it will stay that way.The dollar is reaching multidecade highs against its t… [+5511 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Nicole Nguyen",
-            "title": "Gmail, Slack, Zoom and More—At-Work Tech Rules for New Grads and Everyone Else - The Wall Street Journal",
-            "description": "Do: Turn on Gmail’s Undo Send button. Don’t: Type anything in Slack that you would fear your employer seeing.",
-            "url": "https://www.wsj.com/articles/gmail-slack-zoom-and-moreat-work-tech-rules-for-new-grads-and-everyone-else-11651895797",
-            "urlToImage": "https://images.wsj.net/im-537442/social",
-            "publishedAt": "2022-05-08T12:00:00Z",
-            "content": "You got a degree and a new job. Congratulations! Its an exciting time, but you should know work and school are very different, especially in how people use technology.\r\nYoure likely familiar with too… [+296 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Nicole Nguyen",
+        "title": "Gmail, Slack, Zoom and More—At-Work Tech Rules for New Grads and Everyone Else - The Wall Street Journal",
+        "description": "Do: Turn on Gmail’s Undo Send button. Don’t: Type anything in Slack that you would fear your employer seeing.",
+        "url": "https://www.wsj.com/articles/gmail-slack-zoom-and-moreat-work-tech-rules-for-new-grads-and-everyone-else-11651895797",
+        "urlToImage": "https://images.wsj.net/im-537442/social",
+        "publishedAt": "2022-05-08T12:00:00Z",
+        "content": "You got a degree and a new job. Congratulations! Its an exciting time, but you should know work and school are very different, especially in how people use technology.\r\nYoure likely familiar with too… [+296 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Paul Vigna",
-            "title": "This Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash",
-            "description": "Flash loan has become a potent tool for crypto hackers",
-            "url": "https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089",
-            "urlToImage": "https://images.wsj.net/im-539565/social",
-            "publishedAt": "2022-05-08T11:00:00Z",
-            "content": "A hacker who robbed the decentralized stablecoin platform Beanstalk in April had a powerful tool: a $1 billion loan taken out with no collateral, no proof of income and no identity verification. The … [+6171 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Paul Vigna",
+        "title": "This Billion-Dollar Crypto Loan Is Easy to Get, but Gone in a Flash",
+        "description": "Flash loan has become a potent tool for crypto hackers",
+        "url": "https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089",
+        "urlToImage": "https://images.wsj.net/im-539565/social",
+        "publishedAt": "2022-05-08T11:00:00Z",
+        "content": "A hacker who robbed the decentralized stablecoin platform Beanstalk in April had a powerful tool: a $1 billion loan taken out with no collateral, no proof of income and no identity verification. The … [+6171 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Sebastian Herrera and Akane Otani",
-            "title": "The Tech Industry’s Epic Two-Year Run Sputters - The Wall Street Journal",
-            "description": "Investors are divided about whether technology companies are set for a deep retrenchment or if growth is simply slowing from pandemic highs.",
-            "url": "https://www.wsj.com/articles/the-tech-industrys-epic-two-year-run-sputters-11652002382",
-            "urlToImage": "https://images.wsj.net/im-539884/social",
-            "publishedAt": "2022-05-08T09:33:00Z",
-            "content": "The technology industry, which powered the U.S. economy during the pandemic and grew at tremendous scale during a decade of ultralow interest rates, is confronting one of the most punishing stretches… [+247 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Sebastian Herrera and Akane Otani",
+        "title": "The Tech Industry’s Epic Two-Year Run Sputters - The Wall Street Journal",
+        "description": "Investors are divided about whether technology companies are set for a deep retrenchment or if growth is simply slowing from pandemic highs.",
+        "url": "https://www.wsj.com/articles/the-tech-industrys-epic-two-year-run-sputters-11652002382",
+        "urlToImage": "https://images.wsj.net/im-539884/social",
+        "publishedAt": "2022-05-08T09:33:00Z",
+        "content": "The technology industry, which powered the U.S. economy during the pandemic and grew at tremendous scale during a decade of ultralow interest rates, is confronting one of the most punishing stretches… [+247 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Akane Otani, Karen Langley, Gunjan Banerji",
-            "title": "Market’s 2022 Slide Has Already Changed Investor Behavior",
-            "description": "Once-popular trades fall out of favor as investors brace for further volatility",
-            "url": "https://www.wsj.com/articles/markets-2022-slide-has-already-changed-investor-behavior-11652002203",
-            "urlToImage": "https://images.wsj.net/im-539564/social",
-            "publishedAt": "2022-05-08T09:30:00Z",
-            "content": "The 2022 pullback in U.S. stocks intensified last week, with stocks on Thursday staging their largest single-day decline since the onset of the pandemic. The plunge came just a day after Federal Rese… [+5716 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Akane Otani, Karen Langley, Gunjan Banerji",
+        "title": "Market’s 2022 Slide Has Already Changed Investor Behavior",
+        "description": "Once-popular trades fall out of favor as investors brace for further volatility",
+        "url": "https://www.wsj.com/articles/markets-2022-slide-has-already-changed-investor-behavior-11652002203",
+        "urlToImage": "https://images.wsj.net/im-539564/social",
+        "publishedAt": "2022-05-08T09:30:00Z",
+        "content": "The 2022 pullback in U.S. stocks intensified last week, with stocks on Thursday staging their largest single-day decline since the onset of the pandemic. The plunge came just a day after Federal Rese… [+5716 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Thomas Grove | Photographs by Serhii Korovayny for The Wall Street Journal",
-            "title": "How Ukrainian Civilians Risked Their Lives to Help Win the Battle for Kyiv - The Wall Street Journal",
-            "description": "Villagers shared Google map locations with Ukraine’s military on Russian positions at great risk to themselves, turning a highway into the stage for a Kremlin defeat.",
-            "url": "https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200",
-            "urlToImage": "https://images.wsj.net/im-540052/social",
-            "publishedAt": "2022-05-08T09:30:00Z",
-            "content": "NOVYI BYKIV, UkraineAs Ukraines forces fought to repel Russian troops from the Kyiv region, Ukrainian villagers along Highway 7 battled in their own way: calling in Ukrainian artillery strikes on a v… [+368 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Thomas Grove | Photographs by Serhii Korovayny for The Wall Street Journal",
+        "title": "How Ukrainian Civilians Risked Their Lives to Help Win the Battle for Kyiv - The Wall Street Journal",
+        "description": "Villagers shared Google map locations with Ukraine’s military on Russian positions at great risk to themselves, turning a highway into the stage for a Kremlin defeat.",
+        "url": "https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200",
+        "urlToImage": "https://images.wsj.net/im-540052/social",
+        "publishedAt": "2022-05-08T09:30:00Z",
+        "content": "NOVYI BYKIV, UkraineAs Ukraines forces fought to repel Russian troops from the Kyiv region, Ukrainian villagers along Highway 7 battled in their own way: calling in Ukrainian artillery strikes on a v… [+368 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Chris Blattman",
-            "title": "Wall Street Journal",
-            "description": "An economist’s analysis of armed conflict takes lessons from game theory to discover how to head off wars before they happen.",
-            "url": "https://www.wsj.com/articles/why-we-fight-book-review-give-peace-a-bigger-chance-11651849411",
-            "urlToImage": "https://images.wsj.net/im-538288/social",
-            "publishedAt": "2022-05-07T23:31:17Z",
-            "content": "On July 30, 1932, exactly 6 months before Hitler became chancellor of Germany, Albert Einstein sent a despairing letter to Sigmund Freud. Dear Professor Freud, Einstein wrote. Is there any way of del… [+8032 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Chris Blattman",
+        "title": "Wall Street Journal",
+        "description": "An economist’s analysis of armed conflict takes lessons from game theory to discover how to head off wars before they happen.",
+        "url": "https://www.wsj.com/articles/why-we-fight-book-review-give-peace-a-bigger-chance-11651849411",
+        "urlToImage": "https://images.wsj.net/im-538288/social",
+        "publishedAt": "2022-05-07T23:31:17Z",
+        "content": "On July 30, 1932, exactly 6 months before Hitler became chancellor of Germany, Albert Einstein sent a despairing letter to Sigmund Freud. Dear Professor Freud, Einstein wrote. Is there any way of del… [+8032 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Mauro Orru, Francis X. Rocca",
-            "title": "Russia-Ukraine War: Latest News and Live Updates - The Wall Street Journal",
-            "description": "<ol><li>Russia-Ukraine War: Latest News and Live Updates  The Wall Street Journal\r\n</li><li>Russia's war in Ukraine  CNN\r\n</li><li>Ukraine-Russia War Live News: Latest Updates  The New York Times\r\n</li><li>Ukraine evacuates civilians from steel plant under si…",
-            "url": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-05-07",
-            "urlToImage": "https://images.wsj.net/im-540006/social",
-            "publishedAt": "2022-05-07T21:01:00Z",
-            "content": "The separatist Transnistria region inside Moldova said Saturday that unidentified drones dropped explosives near its border with Ukraine, the latest unexplained blasts to have hit the region in recen… [+1276 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Mauro Orru, Francis X. Rocca",
+        "title": "Russia-Ukraine War: Latest News and Live Updates - The Wall Street Journal",
+        "description": "<ol><li>Russia-Ukraine War: Latest News and Live Updates  The Wall Street Journal\r\n</li><li>Russia's war in Ukraine  CNN\r\n</li><li>Ukraine-Russia War Live News: Latest Updates  The New York Times\r\n</li><li>Ukraine evacuates civilians from steel plant under si…",
+        "url": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-05-07",
+        "urlToImage": "https://images.wsj.net/im-540006/social",
+        "publishedAt": "2022-05-07T21:01:00Z",
+        "content": "The separatist Transnistria region inside Moldova said Saturday that unidentified drones dropped explosives near its border with Ukraine, the latest unexplained blasts to have hit the region in recen… [+1276 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Ann M. Simmons",
-            "title": "Russia Rehearses Annual WWII Victory Parade as Fighting Continues in Ukraine - The Wall Street Journal",
-            "description": "<ol><li>Russia Rehearses Annual WWII Victory Parade as Fighting Continues in Ukraine  The Wall Street Journal\r\n</li><li>Russia moves forces to Mariupol ahead of 'Victory Day' parade, officials work to rescue trapped troops  Fox News\r\n</li><li>'The propaganda …",
-            "url": "https://www.wsj.com/articles/russia-rehearses-annual-wwii-victory-parade-as-fighting-continues-in-ukraine-11651937007",
-            "urlToImage": "https://images.wsj.net/im-539603/social",
-            "publishedAt": "2022-05-07T15:23:00Z",
-            "content": "MOSCOWRussia staged a dress rehearsal with jet fighters flying in Z formations above columns of tanks and infantry to mark the Soviet Unions victory over Nazi Germany in World War II, as President Vl… [+545 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Ann M. Simmons",
+        "title": "Russia Rehearses Annual WWII Victory Parade as Fighting Continues in Ukraine - The Wall Street Journal",
+        "description": "<ol><li>Russia Rehearses Annual WWII Victory Parade as Fighting Continues in Ukraine  The Wall Street Journal\r\n</li><li>Russia moves forces to Mariupol ahead of 'Victory Day' parade, officials work to rescue trapped troops  Fox News\r\n</li><li>'The propaganda …",
+        "url": "https://www.wsj.com/articles/russia-rehearses-annual-wwii-victory-parade-as-fighting-continues-in-ukraine-11651937007",
+        "urlToImage": "https://images.wsj.net/im-539603/social",
+        "publishedAt": "2022-05-07T15:23:00Z",
+        "content": "MOSCOWRussia staged a dress rehearsal with jet fighters flying in Z formations above columns of tanks and infantry to mark the Soviet Unions victory over Nazi Germany in World War II, as President Vl… [+545 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Collin Eaton",
-            "title": "Oil Prices Top $100, Yet Some Big U.S. Frackers Let Their Production Fall",
-            "description": "The largest U.S. shale-oil producers are returning more cash to investors than they’re investing in drilling, a sign of how much the industry has changed since the oil-boom years.",
-            "url": "https://www.wsj.com/articles/oil-prices-top-100-yet-some-big-u-s-frackers-let-their-production-fall-11651926601",
-            "urlToImage": "https://images.wsj.net/im-539919/social",
-            "publishedAt": "2022-05-07T15:01:00Z",
-            "content": "Oil prices are at their highest in years and politicians want companies to pump more. But most large American frackers are standing pat, or even letting production decline, and instead are handing in… [+471 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Collin Eaton",
+        "title": "Oil Prices Top $100, Yet Some Big U.S. Frackers Let Their Production Fall",
+        "description": "The largest U.S. shale-oil producers are returning more cash to investors than they’re investing in drilling, a sign of how much the industry has changed since the oil-boom years.",
+        "url": "https://www.wsj.com/articles/oil-prices-top-100-yet-some-big-u-s-frackers-let-their-production-fall-11651926601",
+        "urlToImage": "https://images.wsj.net/im-539919/social",
+        "publishedAt": "2022-05-07T15:01:00Z",
+        "content": "Oil prices are at their highest in years and politicians want companies to pump more. But most large American frackers are standing pat, or even letting production decline, and instead are handing in… [+471 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Julie Steinberg, Laurence Norman, Joe Wallace",
-            "title": "EU Considers Insurance Ban for Ships Carrying Russian Oil - The Wall Street Journal",
-            "description": "<ol><li>EU Considers Insurance Ban for Ships Carrying Russian Oil  The Wall Street Journal\r\n</li><li>A formerly 'inconceivable' E.U. proposal would mark a historic shift to relations with Russia  Yahoo News\r\n</li><li>Europe's Ban on Russian Oil Has to Be Real…",
-            "url": "https://www.wsj.com/articles/eu-considers-insurance-ban-for-ships-carrying-russian-oil-11651935600",
-            "urlToImage": "https://images.wsj.net/im-539324/social",
-            "publishedAt": "2022-05-07T15:00:00Z",
-            "content": "EU officials have proposed a ban on insuring ships that carry Russian oil, a move aimed at blocking Russias access to global oil markets and the revenue that has fueled its military invasion of Ukrai… [+6747 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Julie Steinberg, Laurence Norman, Joe Wallace",
+        "title": "EU Considers Insurance Ban for Ships Carrying Russian Oil - The Wall Street Journal",
+        "description": "<ol><li>EU Considers Insurance Ban for Ships Carrying Russian Oil  The Wall Street Journal\r\n</li><li>A formerly 'inconceivable' E.U. proposal would mark a historic shift to relations with Russia  Yahoo News\r\n</li><li>Europe's Ban on Russian Oil Has to Be Real…",
+        "url": "https://www.wsj.com/articles/eu-considers-insurance-ban-for-ships-carrying-russian-oil-11651935600",
+        "urlToImage": "https://images.wsj.net/im-539324/social",
+        "publishedAt": "2022-05-07T15:00:00Z",
+        "content": "EU officials have proposed a ban on insuring ships that carry Russian oil, a move aimed at blocking Russias access to global oil markets and the revenue that has fueled its military invasion of Ukrai… [+6747 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Warren P. Strobel",
-            "title": "USA Walks Fine Line Giving Intel to Ukraine...",
-            "description": "USA Walks Fine Line Giving Intel to Ukraine...\r\n\n \n \n \n (Second column, 7th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Sending laser-guided rockets, surveillance drones...\r\nAs war grinds on, definition of victory remains murky...\r\nMilitary Drafts Loom Over Eur…",
-            "url": "https://www.wsj.com/articles/u-s-walks-fine-line-sharing-intelligence-with-ukraine-in-war-with-russia-11651921201",
-            "urlToImage": "https://images.wsj.net/im-539841/social",
-            "publishedAt": "2022-05-07T13:04:39Z",
-            "content": "WASHINGTONThe United States is walking a fine line as it shares vast amounts of classified intelligence with Ukraine, trying to help Kyiv defeat Russias invasion and avoid dragging the U.S. into dire… [+342 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Warren P. Strobel",
+        "title": "USA Walks Fine Line Giving Intel to Ukraine...",
+        "description": "USA Walks Fine Line Giving Intel to Ukraine...\r\n\n \n \n \n (Second column, 7th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Sending laser-guided rockets, surveillance drones...\r\nAs war grinds on, definition of victory remains murky...\r\nMilitary Drafts Loom Over Eur…",
+        "url": "https://www.wsj.com/articles/u-s-walks-fine-line-sharing-intelligence-with-ukraine-in-war-with-russia-11651921201",
+        "urlToImage": "https://images.wsj.net/im-539841/social",
+        "publishedAt": "2022-05-07T13:04:39Z",
+        "content": "WASHINGTONThe United States is walking a fine line as it shares vast amounts of classified intelligence with Ukraine, trying to help Kyiv defeat Russias invasion and avoid dragging the U.S. into dire… [+342 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Dion Nissenbaum, Rory Jones",
-            "title": "Kushner New Fund Plans to Invest Saudi Money in Israel...",
-            "description": "Kushner New Fund Plans to Invest Saudi Money in Israel...\r\n\n \n \n \n (Second column, 1st story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
-            "url": "https://www.wsj.com/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236",
-            "urlToImage": "https://images.wsj.net/im-539289/social",
-            "publishedAt": "2022-05-07T13:04:39Z",
-            "content": "Jared Kushners new private-equity fund plans to invest millions of dollars of Saudi Arabias money in Israeli startups, according to people familiar with the investment plan, in a sign of warming ties… [+244 chars]"
-            },
-            {
-            "source": {
+        },
+        "author": "Dion Nissenbaum, Rory Jones",
+        "title": "Kushner New Fund Plans to Invest Saudi Money in Israel...",
+        "description": "Kushner New Fund Plans to Invest Saudi Money in Israel...\r\n\n \n \n \n (Second column, 1st story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+        "url": "https://www.wsj.com/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236",
+        "urlToImage": "https://images.wsj.net/im-539289/social",
+        "publishedAt": "2022-05-07T13:04:39Z",
+        "content": "Jared Kushners new private-equity fund plans to invest millions of dollars of Saudi Arabias money in Israeli startups, according to people familiar with the investment plan, in a sign of warming ties… [+244 chars]"
+    },
+    {
+        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
-            },
-            "author": "Catherine Lucey and Ken Thomas",
-            "title": "Biden at Center of Abortion Fight After Career of Reservations...",
-            "description": "Biden at Center of Abortion Fight After Career of Reservations...\r\n\n \n \n \n (First column, 7th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:New poll reveals warning signs for Republicans...\r\nCalifornia leans in as refuge...\r\nIt's Roberts' Court, but does he still…",
-            "url": "https://www.wsj.com/articles/biden-at-center-of-fight-over-abortion-after-career-of-reservations-11651921202",
-            "urlToImage": "https://images.wsj.net/im-539770/social",
-            "publishedAt": "2022-05-07T13:04:38Z",
-            "content": "WASHINGTONAs a young senator, Joe Biden said he felt the 1973 Roe v. Wade decision that gave women the right to have an abortion had gone too far. He briefly supported a constitutional amendment that… [+333 chars]"
-            }
+        },
+        "author": "Catherine Lucey and Ken Thomas",
+        "title": "Biden at Center of Abortion Fight After Career of Reservations...",
+        "description": "Biden at Center of Abortion Fight After Career of Reservations...\r\n\n \n \n \n (First column, 7th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:New poll reveals warning signs for Republicans...\r\nCalifornia leans in as refuge...\r\nIt's Roberts' Court, but does he still…",
+        "url": "https://www.wsj.com/articles/biden-at-center-of-fight-over-abortion-after-career-of-reservations-11651921202",
+        "urlToImage": "https://images.wsj.net/im-539770/social",
+        "publishedAt": "2022-05-07T13:04:38Z",
+        "content": "WASHINGTONAs a young senator, Joe Biden said he felt the 1973 Roe v. Wade decision that gave women the right to have an abortion had gone too far. He briefly supported a constitutional amendment that… [+333 chars]"
+    }
 ]
