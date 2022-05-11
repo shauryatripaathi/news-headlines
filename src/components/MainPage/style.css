@@ -1,0 +1,13 @@
+.timeAndDate {
+    background-color: papayawhip;
+    text-align: center;
+}
+
+@media (max-width: 62em) {
+    .timeAndDate {
+        width: 100vmax;
+        font-size: 1.2vh;
+        display: flex;
+        background-color: white;
+    }
+}

@@ -17,7 +17,7 @@ export default function Navbar() {
                     <Route path='/' element={<Home />} />
                     <Route path='/world' element={<World />} />
                     <Route path='/business' element={<Business />} />
-                    <Route path='/sports' element = {<Sports />}/>
+                    <Route path='/sports' element={<Sports />} />
                     <Route path='/science' element={<Science />} />
                     <Route path='/health' element={<Health />} />
                     <Route path='/movies' element={<Movies />} />

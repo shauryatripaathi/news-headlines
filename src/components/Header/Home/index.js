@@ -1,10 +1,10 @@
 import FetchNews from '../../fetchNews'
 
-export default function Home (){
-    return(
+export default function Home() {
+    return (
         <div>
             <h1>Top Stories</h1>
-            <FetchNews content = '' />
+            <FetchNews content='' />
         </div>
     )
 }
